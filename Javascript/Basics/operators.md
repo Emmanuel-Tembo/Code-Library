@@ -1,4 +1,7 @@
-# BACKEND, TYPESCRIPT AND EMAIL APIS THROUGH DESTRUCTURING
+# Ternery Operator: 
+- condition ? valueIftrue : valueIfFalse
+
+# chaining
 
 ```typescript
     if (
@@ -13,7 +16,3 @@
 - Condition 1 : check if teh confirmation data is missing null or undefined and the the optional chaining operator (?.) prevents a runtime crash if confirmastion.data is null
 - condition 2: checks if emailSent is already true
 - condition 3: 
-
-
-# Ternery Operator: 
-- condition ? valueIftrue : valueIfFalse
