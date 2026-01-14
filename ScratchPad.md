@@ -11,3 +11,11 @@
 - File prop drilling 
 - Conditional rendering through view == "x" && (...) "Short circuit evaluation"
 - understanding the tenery operator and the ?. chaining method, the colons too :
+
+## practice writing a Api call with typescript:
+
+```typescript
+
+
+
+```
